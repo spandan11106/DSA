@@ -1,0 +1,12 @@
+# Ignore compiled output
+a.out
+*.out
+*.exe
+*.class
+
+# Temporary files
+*.log
+*.tmp
+
+# VS Code settings (optional, but recommended if using Codespace)
+.vscode/
